@@ -22,3 +22,7 @@ h3 {
 .backgr {
   background-image: url("../image/building.png");
 }
+
+.foot {
+  text-align: left;
+}

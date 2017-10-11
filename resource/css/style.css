@@ -25,4 +25,9 @@ h3 {
 
 .foot {
   text-align: left;
+  background-color: dimgray;
+}
+
+.backgr, .foot, a {
+  color: white;
 }

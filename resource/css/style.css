@@ -19,13 +19,23 @@ h3 {
   font-size: 23px;
 }
 
+p {
+  font-size: 14px;
+}
+
+a {
+  font-size: 18px;
+}
+
 .backgr {
   background-image: url("../image/building.png");
+  background-position: center;
 }
 
 .foot {
   text-align: left;
   background-color: dimgray;
+  font-size: 11px;
 }
 
 .backgr, .foot, a {

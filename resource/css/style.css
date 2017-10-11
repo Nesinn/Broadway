@@ -12,9 +12,13 @@ h1 {
 }
 
 h2 {
-  font-size: 32px;  
+  font-size: 32px;
 }
 
 h3 {
   font-size: 23px;
+}
+
+.backgr {
+  background-image: url("../image/building.png");
 }
